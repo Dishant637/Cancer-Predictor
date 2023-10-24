@@ -1,7 +1,2 @@
 # Cancer-Predictor
-Developed a machine learning-based Cancer Predictor that employs various classification algorithms to determine
-the presence of cancer in individuals by analyzing a set of relevant features by using Python programing language.
-• Preprocessing techniques were utilized to remove redundant properties from the data, optimizing the model’s
-performance.
-• Implementing multiple classification models, including Logistic Regression, Support Vector Machine (SVM), and
-K-Nearest Neighbors (KNN), to achieve accurate predictions.
+A classification problem related to predicting whether cancer is bening or malignant based on various given features. Data cleaning methods were used to drop features having more no importance.The data consisted of comparable bening and malignant cases so the data was not unbalanced. Used various classification models(Logistic Regression,SVM,Random Forest,K-nearestt Neighboors) to solve the problem . Logistic Regression and SVM performed well in classifying among the two classes with good acccuraccy scores.
